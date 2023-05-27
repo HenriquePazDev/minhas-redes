@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    right: 39%;
+    flex-direction: column;
+}
+h1{
+    color: yellowgreen;
+}
+
+h2{
+    color: violet;
+    left: 10px;
+}
